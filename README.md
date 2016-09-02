@@ -3,5 +3,5 @@ Learning how to use git
 
 ## Team Members
 Yimeng Jia - yimeng.jia@duke.edu
-COlin Rundel - rundel@gmail.com
-
+Colin Rundel - rundel@gmail.com
+Xiaozhou Wang - xiaozhou.wang@duke.edu
